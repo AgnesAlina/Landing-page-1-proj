@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    margin: 0;
 }
 a{
     text-decoration: nine;
@@ -17,9 +18,7 @@ li{
     padding: 0 15px;
 }
 
-body{
 
-}
 
 .header__top{
     background-color: #303030;
